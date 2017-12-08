@@ -1,0 +1,136 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEfficientRandomArrayAlgorithm", "ConsoleEfficientRandomArrayAlgorithm\ConsoleEfficientRandomArrayAlgorithm.csproj", "{85090F49-FDE5-4543-828F-71C55D6A9488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalCodingStyle.AnnualLeave", "PersonalCodingStyle\AnnualLeave\PersonalCodingStyle.AnnualLeave.csproj", "{275805B5-3F61-4E1A-B6D3-56F2CB2FEC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalCodingStyle.AnnualLeave.CustomLeaveValidators", "PersonalCodingStyle\AnnualLeave.CustomLeaveValidators\PersonalCodingStyle.AnnualLeave.CustomLeaveValidators.csproj", "{D8713E35-6F68-4434-9640-884C9A498F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalCodingStyle.AnnualLeave.CustomRepositories", "PersonalCodingStyle\AnnualLeave.CustomRepositories\PersonalCodingStyle.AnnualLeave.CustomRepositories.csproj", "{792ACF61-322D-4DD7-A6B8-24703049A647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalCodingStyle.AnnualLeave.Logging", "PersonalCodingStyle\AnnualLeave.Logging\PersonalCodingStyle.AnnualLeave.Logging.csproj", "{C9C02D20-7DC5-47CE-B8E8-6E2EAEBD1F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalCodingStyle.AnnualLeave.MicrosoftContainer", "PersonalCodingStyle\AnnualLeave.MicrosoftContainer\PersonalCodingStyle.AnnualLeave.MicrosoftContainer.csproj", "{75ED098E-0B34-43D2-9B01-CCED61DFCBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalCodingStyle.AnnualLeave.UnitTests", "PersonalCodingStyle\AnnualLeave.UnitTests\PersonalCodingStyle.AnnualLeave.UnitTests.csproj", "{D86F223B-BED8-425C-A737-85E5D1961719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.PersonalCodingStyle", "1.PersonalCodingStyle", "{83966B74-C967-4B1C-9A9A-D0D14932E563}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD3F80EE-E8EA-428D-9F0E-FEB33264B8A0}"
+	ProjectSection(SolutionItems) = preProject
+		LandsberryAndJames.snk = LandsberryAndJames.snk
+		PersonalCodingStyle\PersonalCodingStyle-About-My-Solution-Readme.txt = PersonalCodingStyle\PersonalCodingStyle-About-My-Solution-Readme.txt
+		PersonalCodingStyle\PersonalCodingStyle-Motive.pdf = PersonalCodingStyle\PersonalCodingStyle-Motive.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.ConsoleEfficientRandomArrayAlgorithm", "3.ConsoleEfficientRandomArrayAlgorithm", "{4427B020-08CA-4E4F-8E3E-8DF3745CD657}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.XamlAndWpf", "2.XamlAndWpf", "{09CF862B-2B95-4275-BBD4-2568FE7B85EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlAndWpf.WindowsApp", "XamlAndWpf\XamlAndWpf.Application\XamlAndWpf.WindowsApp.csproj", "{C0A61DB5-099C-493A-89CB-8E352E758FBC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "XamlAndWpf.WindowsApp.Theme", "XamlAndWpf\XamlAndWpf.Application.ControlsLibrary\XamlAndWpf.WindowsApp.Theme.vbproj", "{6D55C6B6-9103-4810-A24B-FF9EDE783576}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gmpatel.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleEfficientRandomArrayAlgorithm\\ConsoleEfficientRandomArrayAlgorithm.csproj
+		SccProjectTopLevelParentUniqueName1 = LandsberryAndJames.sln
+		SccProjectName1 = ConsoleEfficientRandomArrayAlgorithm
+		SccLocalPath1 = ConsoleEfficientRandomArrayAlgorithm
+		SccProjectUniqueName2 = PersonalCodingStyle\\AnnualLeave\\PersonalCodingStyle.AnnualLeave.csproj
+		SccProjectTopLevelParentUniqueName2 = LandsberryAndJames.sln
+		SccProjectName2 = PersonalCodingStyle/AnnualLeave
+		SccLocalPath2 = PersonalCodingStyle\\AnnualLeave
+		SccProjectUniqueName3 = PersonalCodingStyle\\AnnualLeave.CustomLeaveValidators\\PersonalCodingStyle.AnnualLeave.CustomLeaveValidators.csproj
+		SccProjectTopLevelParentUniqueName3 = LandsberryAndJames.sln
+		SccProjectName3 = PersonalCodingStyle/AnnualLeave.CustomLeaveValidators
+		SccLocalPath3 = PersonalCodingStyle\\AnnualLeave.CustomLeaveValidators
+		SccProjectUniqueName4 = PersonalCodingStyle\\AnnualLeave.CustomRepositories\\PersonalCodingStyle.AnnualLeave.CustomRepositories.csproj
+		SccProjectTopLevelParentUniqueName4 = LandsberryAndJames.sln
+		SccProjectName4 = PersonalCodingStyle/AnnualLeave.CustomRepositories
+		SccLocalPath4 = PersonalCodingStyle\\AnnualLeave.CustomRepositories
+		SccProjectUniqueName5 = PersonalCodingStyle\\AnnualLeave.Logging\\PersonalCodingStyle.AnnualLeave.Logging.csproj
+		SccProjectTopLevelParentUniqueName5 = LandsberryAndJames.sln
+		SccProjectName5 = PersonalCodingStyle/AnnualLeave.Logging
+		SccLocalPath5 = PersonalCodingStyle\\AnnualLeave.Logging
+		SccProjectUniqueName6 = PersonalCodingStyle\\AnnualLeave.MicrosoftContainer\\PersonalCodingStyle.AnnualLeave.MicrosoftContainer.csproj
+		SccProjectTopLevelParentUniqueName6 = LandsberryAndJames.sln
+		SccProjectName6 = PersonalCodingStyle/AnnualLeave.MicrosoftContainer
+		SccLocalPath6 = PersonalCodingStyle\\AnnualLeave.MicrosoftContainer
+		SccProjectUniqueName7 = PersonalCodingStyle\\AnnualLeave.UnitTests\\PersonalCodingStyle.AnnualLeave.UnitTests.csproj
+		SccProjectTopLevelParentUniqueName7 = LandsberryAndJames.sln
+		SccProjectName7 = PersonalCodingStyle/AnnualLeave.UnitTests
+		SccLocalPath7 = PersonalCodingStyle\\AnnualLeave.UnitTests
+		SccProjectUniqueName8 = XamlAndWpf\\XamlAndWpf.Application\\XamlAndWpf.WindowsApp.csproj
+		SccProjectTopLevelParentUniqueName8 = LandsberryAndJames.sln
+		SccProjectName8 = XamlAndWpf/XamlAndWpf.Application
+		SccLocalPath8 = XamlAndWpf\\XamlAndWpf.Application
+		SccProjectUniqueName9 = XamlAndWpf\\XamlAndWpf.Application.ControlsLibrary\\XamlAndWpf.WindowsApp.Theme.vbproj
+		SccProjectTopLevelParentUniqueName9 = LandsberryAndJames.sln
+		SccProjectName9 = XamlAndWpf/XamlAndWpf.Application.ControlsLibrary
+		SccLocalPath9 = XamlAndWpf\\XamlAndWpf.Application.ControlsLibrary
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85090F49-FDE5-4543-828F-71C55D6A9488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85090F49-FDE5-4543-828F-71C55D6A9488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85090F49-FDE5-4543-828F-71C55D6A9488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85090F49-FDE5-4543-828F-71C55D6A9488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275805B5-3F61-4E1A-B6D3-56F2CB2FEC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275805B5-3F61-4E1A-B6D3-56F2CB2FEC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275805B5-3F61-4E1A-B6D3-56F2CB2FEC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275805B5-3F61-4E1A-B6D3-56F2CB2FEC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8713E35-6F68-4434-9640-884C9A498F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8713E35-6F68-4434-9640-884C9A498F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8713E35-6F68-4434-9640-884C9A498F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8713E35-6F68-4434-9640-884C9A498F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792ACF61-322D-4DD7-A6B8-24703049A647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792ACF61-322D-4DD7-A6B8-24703049A647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792ACF61-322D-4DD7-A6B8-24703049A647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792ACF61-322D-4DD7-A6B8-24703049A647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C02D20-7DC5-47CE-B8E8-6E2EAEBD1F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C02D20-7DC5-47CE-B8E8-6E2EAEBD1F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C02D20-7DC5-47CE-B8E8-6E2EAEBD1F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C02D20-7DC5-47CE-B8E8-6E2EAEBD1F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75ED098E-0B34-43D2-9B01-CCED61DFCBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ED098E-0B34-43D2-9B01-CCED61DFCBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ED098E-0B34-43D2-9B01-CCED61DFCBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ED098E-0B34-43D2-9B01-CCED61DFCBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86F223B-BED8-425C-A737-85E5D1961719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86F223B-BED8-425C-A737-85E5D1961719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86F223B-BED8-425C-A737-85E5D1961719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86F223B-BED8-425C-A737-85E5D1961719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A61DB5-099C-493A-89CB-8E352E758FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A61DB5-099C-493A-89CB-8E352E758FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A61DB5-099C-493A-89CB-8E352E758FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A61DB5-099C-493A-89CB-8E352E758FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D55C6B6-9103-4810-A24B-FF9EDE783576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D55C6B6-9103-4810-A24B-FF9EDE783576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D55C6B6-9103-4810-A24B-FF9EDE783576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D55C6B6-9103-4810-A24B-FF9EDE783576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{85090F49-FDE5-4543-828F-71C55D6A9488} = {4427B020-08CA-4E4F-8E3E-8DF3745CD657}
+		{275805B5-3F61-4E1A-B6D3-56F2CB2FEC6B} = {83966B74-C967-4B1C-9A9A-D0D14932E563}
+		{D8713E35-6F68-4434-9640-884C9A498F27} = {83966B74-C967-4B1C-9A9A-D0D14932E563}
+		{792ACF61-322D-4DD7-A6B8-24703049A647} = {83966B74-C967-4B1C-9A9A-D0D14932E563}
+		{C9C02D20-7DC5-47CE-B8E8-6E2EAEBD1F67} = {83966B74-C967-4B1C-9A9A-D0D14932E563}
+		{75ED098E-0B34-43D2-9B01-CCED61DFCBAE} = {83966B74-C967-4B1C-9A9A-D0D14932E563}
+		{D86F223B-BED8-425C-A737-85E5D1961719} = {83966B74-C967-4B1C-9A9A-D0D14932E563}
+		{C0A61DB5-099C-493A-89CB-8E352E758FBC} = {09CF862B-2B95-4275-BBD4-2568FE7B85EC}
+		{6D55C6B6-9103-4810-A24B-FF9EDE783576} = {09CF862B-2B95-4275-BBD4-2568FE7B85EC}
+	EndGlobalSection
+EndGlobal
